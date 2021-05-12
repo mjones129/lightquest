@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Jim Hall - Wanderlust.mp3-95bcfd24c599942a383d7f421be8f19b.mp3str"
+
+[deps]
+
+source_file="res://Audio/Jim Hall - Wanderlust.mp3"
+dest_files=[ "res://.import/Jim Hall - Wanderlust.mp3-95bcfd24c599942a383d7f421be8f19b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
