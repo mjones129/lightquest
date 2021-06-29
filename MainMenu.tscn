@@ -49,3 +49,4 @@ autoplay = true
 stream = ExtResource( 5 )
 
 [connection signal="focus_entered" from="ColorRect/Button" to="." method="_on_Button_focus_entered"]
+[connection signal="pressed" from="ColorRect/Button" to="." method="_on_Button_pressed"]
